@@ -7,6 +7,3 @@
     - [Objective](#objective)
       - [Scope](#scope)
 - [Data Structure](#data-structure)
-
-![ERD](data-analyst-portfolio/candy_sales_ERD)
-
