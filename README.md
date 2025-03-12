@@ -8,4 +8,5 @@
       - [Scope](#scope)
 - [Data Structure](#data-structure)
 
-![ERD](assets/images/Screenshot 2025-03-05 163232.png)
+![ERD](data-analyst-portfolio/Screenshot 2025-03-05 163232.png)
+
