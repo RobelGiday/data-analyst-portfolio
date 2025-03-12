@@ -1,2 +1,2 @@
-# data-analyst-portfolio
+# data-analyst-portfoli
 Compilation of projects
